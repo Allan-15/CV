@@ -1,4 +1,4 @@
-# <p style="text-align: center;"><span style="color: #1f618d;">Allan Enrique Chinchilla Arias
+<h1 style="text-align: center; color: #1f618d;">Allan Enrique Chinchilla Arias</h1>
 
 **<p style="text-align: center;">Estudiante de Geografía**
 
@@ -9,7 +9,7 @@
 - **Teléfono**: 63077999
 
 <div style="float: right; width: 125px; margin: 10px; position: relative; top: -157px;">
-    <img src="img1/allan.jpg" alt="Imagen Local" style="width: 100%; height: auto;">
+  <img src="img1/allan.jpg" alt="Imagen Local" style="width: 100%; height: auto;">
 </div>
 
 ### <span style="color: #1f618d;">Perfil Profesional
