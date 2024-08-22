@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color: #1f618d;">Allan Enrique Chinchilla Arias</h1>
+<h1 style="text-align: center; color: #1f618d;">Allan Enrique Chinchilla Arias</h1>  <img src="img1/allan.jpg" alt="Imagen Local" style="width: 125px; height: auto;">
 
 **<p style="text-align: center;">Estudiante de Geografía**
 
@@ -7,10 +7,6 @@
 - [LinkedIn](https://www.linkedin.com/in/allan-chinchilla-arias-b4889b143)
 - **Correo**: <chinchillaallan15@gmail.com>
 - **Teléfono**: 63077999
-
-<div style="float: right; width: 125px; margin: 10px; position: relative; top: -157px;">
-  <img src="img1/allan.jpg" alt="Imagen Local" style="width: 100%; height: auto;">
-</div>
 
 ### <span style="color: #1f618d;">Perfil Profesional
 
